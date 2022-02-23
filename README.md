@@ -1,4 +1,4 @@
-# Weather Station |
+# Weather Station | Estação meteorológica
 
 Projeto avaliativo da cadeira de Lógica de Programação 2 do curso de Sistemas de Informação da Universidade de Pernambuco
 Estação metereológica desenvolvida no Tinkercad utilizando o simulador de arduíno com a linguagem C++
